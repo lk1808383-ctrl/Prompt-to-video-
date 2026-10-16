@@ -1,0 +1,6 @@
+{
+  "name": "VibeVideo AI - Text to Video Studio",
+  "description": "Next-generation AI Text-to-Video generation platform featuring high-definition rendering, cinematic camera controls, dynamic explore community, and ultra-fast dark cyberpunk UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
